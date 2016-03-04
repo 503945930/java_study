@@ -29,6 +29,15 @@
 3. [字节、字、bit、byte的关系](http://blog.csdn.net/wanlixingzhe/article/details/7107923)
 4. [基本数据类型](http://blog.csdn.net/bingduanlbd/article/details/27790287)
 5. [Java语言中自增（++）和自减（--）运算符](http://blog.csdn.net/henren555/article/details/39120481)
+6. [Java代码规范](http://www.jianshu.com/p/d5b0b8f482fd)
+7. [switch语句详解](http://blog.sina.com.cn/s/blog_4a2061060100b9cu.html)
+8. [if-else](http://www.cnblogs.com/-cyb/articles/Java_if-else.html)
+9. [Java变量的作用域和生存期](http://blog.sina.com.cn/s/blog_4d1a814501000be2.html)
+10. [Java 运算符](http://www.runoob.com/java/java-operators.html)
+
+
+### java_04
+1. [for、while do-while](http://www.yiibai.com/java/java_loop_control.html)
 
 
 
@@ -36,6 +45,10 @@
 
 ### 优秀文章
 1. [许宏川--个人学习教程](http://www.jianshu.com/users/60a377b8b7d1/latest_articles) 
+
+
+### eclipse主题
+*　[Eclipse Color Themes](http://eclipsecolorthemes.org/)
 
 
 
